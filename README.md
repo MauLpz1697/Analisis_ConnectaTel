@@ -7,7 +7,7 @@ El dataset `plans` incluye 2 tipos de planes,  `users` incluye 4000 usuarios y `
 notebooks/analisis_ConnectaTel.ipynb → Notebook principal con limpieza e identificación de problemas de calidad de datos , EDA, distribuciones, visualizaciones de distribuciones, identificación de outliers, segmentación de clientes y conclusiones.
 
 **Cómo reproducir el análisis**
-Abre notebooks/everpeak_analysis.ipynb
+Abre notebooks/Project-ConnectaTel.ipynb
 Ejecuta las celdas en orden
 El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
 
